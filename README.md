@@ -1,7 +1,5 @@
-# NLP Model -project
-ecommerce-clothing-reviews 
 # NLP Review Analysis Model
-
+ecommerce-clothing-reviews 
 This project is an NLP-based model for analyzing user reviews. It classifies the sentiment of reviews (e.g., positive, negative, neutral) and extracts key insights using natural language processing techniques.
 
 ## 📌 Features
